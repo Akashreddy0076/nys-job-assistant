@@ -15,3 +15,5 @@ data/raw/
 .agents/
 .DS_Store
 .vscode/data/chroma/
+
+data/chroma/
