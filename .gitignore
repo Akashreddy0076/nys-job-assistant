@@ -1,0 +1,17 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets (never upload API keys)
+.env
+.streamlit/secrets.toml
+
+# Large raw downloads (rebuilt by collect.py)
+data/raw/
+
+# Editor / tools
+.agents/
+.DS_Store
+.vscode/data/chroma/
